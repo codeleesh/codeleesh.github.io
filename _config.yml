@@ -9,7 +9,7 @@ version: 2
 name: 이상호
 title: Java Back-End Developer
 email: lovethefeel@gmail.com
-blog: https://lovethefeel.tistory.com/
+web: https://lovethefeel.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,8 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. Java & Spring 기반의 7년차 백엔드 개발자로 금융권 마이데이터 플랫폼, 실험실 정보 관리 시스템(LIMS), 은행권 OPEN API, 부가인증(OTP) 관리 시스템, 계정 권한 관리 시스템 등의 서비스에서 API 개발 및 서버 구축을 해왔습니다.
   현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.
-  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모해서 공유하는 것을 좋아합니다.
-  테스트 코드의 중요성을 알고 현재 테스트 코드를 0%에서 20%까지 작성을 하였으며 50%까지 작성을 목표로 하고 있습니다.
+  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.
+  테스트 코드의 중요성을 알고
 
 content:
   - title: 경력 # Title for the section
@@ -109,7 +109,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          사내 프로젝트 게정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈API 백엔드 개발
+          계정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈API 백엔드 개발
         description: | # this will include new lines to allow paragraphs
           - Spring Webflux
           -
