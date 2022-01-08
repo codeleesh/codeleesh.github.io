@@ -49,9 +49,9 @@ github_username:  codeleesh
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. Java & Spring 기반의 7년차 백엔드 개발자로 금융권 마이데이터 플랫폼, 실험실 정보 관리 시스템(LIMS), 은행권 OPEN API, 부가인증(OTP) 관리 시스템, 계정 권한 관리 시스템 등의 서비스에서 API 개발 및 서버 구축을 해왔습니다.
-  현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.
-  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.
-  테스트 코드의 중요성을 알고
+  현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.|
+  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.|
+  테스트 코드의 중요성을 알고 작성하려고 노력하기 위해서 기존 프로젝트의 0%의 테스트 코드에서 20%까지 작성을 진행하였습니다.
 
 content:
   - title: 경력 # Title for the section
@@ -113,23 +113,11 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          계정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈API 백엔드 개발
+          계정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈 API 백엔드 개발
         description: | # this will include new lines to allow paragraphs
-          - MAU 1만
-          - MAU 14만 시스템
+          - MAU 1만, MAU 14만 계정 / 권한 관리 시스템 개발
+          -
           - 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
-
-  - title: 역량
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
   - title: 스킬 # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,11 +146,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 우아한 테크 캠프 프로
-        link: https://www.s-core.co.kr
+        title: 넥스트스텝
+        link: https://edu.nextstep.camp
         # link_text: Project Website
-        sub_title: Java & Spring 백엔드 개발자
-        caption: 2021.07 ~ 현재
+        caption: 2021.11 ~ 2022.12
           # additional_links:
           #  - title:  sproogen/modern-resume-theme
           #    icon: fab fa-github
@@ -171,10 +158,20 @@ content:
           #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          마이데이터 플랫폼 개발
+          우아한테크캠프 Pro 3기
         description: | # this will include new lines to allow paragraphs
-          - Spring Webflux
-          -
+          - JPA 기반 웹 어플리케이션 개발
+          - 단위, 인수테스트 기반 개발
+          - 레거시 코드를 안정적으로 리팩토링하는 경험
+
+      - layout: left
+        title: 인프런
+        런ink: https://www.inflearn.com
+        caption: 2022.01 ~ 현재
+        quote: >
+          모든 개발자를 HTTP 웹 기본 지식
+        description: | # this will include new lines to allow paragraphs
+          - HTTP 웹 기본 지식 내용 정리
 
 # Footer
 footer_show_references: true
