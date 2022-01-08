@@ -73,8 +73,10 @@ content:
         quote: >
           마이데이터 플랫폼 개발
         description: | # this will include new lines to allow paragraphs
-          - Spring Webflux
-          -
+          - 금융보안원 표준 API 1.0 버전 적용
+          - 테스트베드 백엔드 개발
+          - 앱템플릿 백엔드 개발
+          - Spring WebFlux을 이용한 API 서버 호출 개발
 
       - layout: left
         title: 마크로젠
@@ -92,8 +94,10 @@ content:
         quote: >
           사내 프로젝트 실험실 관리 시스템 국내 및 해외법인(일본, 미국) API 개발 및 구축 진행
         description: | # this will include new lines to allow paragraphs
-          - Spring Webflux
-          -
+          - 사내 프로젝트 실험실 관리 시스템 고도화
+          - 해외법인(일본, 미국) 실험실 관리 시스템 고도화
+          - 국내와 법인간 아웃소싱 주문을 위한 API 통신 처리
+          - 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
 
       - layout: left
         title: 프리커스
@@ -111,8 +115,9 @@ content:
         quote: >
           계정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈API 백엔드 개발
         description: | # this will include new lines to allow paragraphs
-          - Spring Webflux
-          -
+          - MAU 1만
+          - MAU 14만 시스템
+          - 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
 
   - title: 역량
     layout: text
