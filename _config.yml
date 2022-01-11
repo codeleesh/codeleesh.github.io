@@ -137,7 +137,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - MySQL, PostgreSQL
           - Jenkins, Git-runner
-          - Netty, Tomcat
+          - Weblogic, Netty, Tomcat
           - Junit4/5, Mockito
           - JMeter
           - Linux Centos
