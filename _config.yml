@@ -49,8 +49,8 @@ github_username:  codeleesh
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. Java & Spring 기반의 7년차 백엔드 개발자로 금융권 마이데이터 플랫폼, 실험실 정보 관리 시스템(LIMS), 은행권 OPEN API, 부가인증(OTP) 관리 시스템, 계정 권한 관리 시스템 등의 서비스에서 API 개발 및 서버 구축을 해왔습니다.
-  현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.|
-  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.|
+  현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.
+  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.
   테스트 코드의 중요성을 알고 작성하려고 노력하기 위해서 기존 프로젝트의 0%의 테스트 코드에서 20%까지 작성을 진행하였습니다.
 
 content:
