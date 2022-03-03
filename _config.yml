@@ -17,83 +17,41 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 github_username:  codeleesh
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. Java & Spring 기반의 7년차 백엔드 개발자로 금융권 마이데이터 플랫폼, 실험실 정보 관리 시스템(LIMS), 은행권 OPEN API, 부가인증(OTP) 관리 시스템, 계정 권한 관리 시스템 등의 서비스에서 API 개발 및 서버 구축을 해왔습니다.
-  현재는 마이데이터 플랫폼 개발을 진행하고 있습니다.
-  읽기 쉬운 코드를 작성하는 것을 노력하고 있으며, 작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하려고 합니다.
-  테스트 코드의 중요성을 알고 작성하려고 노력하기 위해서 기존 프로젝트의 0%의 테스트 코드에서 20%까지 작성을 진행하였습니다.
+  안녕하세요. Java & Spring 기반의 7년차 백엔드 개발자로 금융권 마이데이터 플랫폼, 실험실 정보 관리 시스템(LIMS), 은행권 OPEN API, 부가인증(OTP) 관리 시스템, 계정 권한 관리 시스템 등의 서비스에서 API 개발 및 서버 구축을 해왔습니다.<br />
+  현재는 내부에서 마이데이터 플랫폼 개발을 진행하고 있으며 특히 원활한 테스트를 위해서 가상 테스트 베드를 개발하여 개인 자산 수집 테스트, 시나리오 테스트 등을 맡아서 개발하고 있습니다.<br />
+  작은 것 하나라도 메모하는 것의 중요성을 깨달아 실천하기 위해서 매일 회사와 집에서 각각 일지를 쓰면서 필요한 내용은 컨플루언스와 블로그에 작성하여 공유하고 있습니다.<br />
+  테스트 코드의 중요성을 통해 기존 프로젝트의 테스트 코드가 존재하지 않았지만 테스트 커버리지 80% 달성하기 위해 노력중입니다.<br />
 
 content:
-  - title: 경력 # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: 경력
+    layout: list
     content:
       - layout: left
         title: 에스코어
         link: https://www.s-core.co.kr
-        # link_text: Project Website
         sub_title: Java & Spring 백엔드 개발자
         caption: 2021.07 ~ 현재
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           마이데이터 플랫폼 개발
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - 금융보안원 표준 API 1.0 버전 적용
-          - 테스트베드 백엔드 개발
-          - 앱템플릿 백엔드 개발
+          - 가상 금융 데이터 수집 테스를 위한 테스트베드 백엔드 개발
+          - 데모 테스트를 위한 앱템플릿 백엔드 개발
           - Spring WebFlux을 이용한 API 서버 호출 개발
 
       - layout: left
         title: 마크로젠
         link: https://www.macrogen.com
-        # link_text: Project Website
         sub_title: Java & Spring 백엔드 개발자
         caption: 2019.08 ~ 2021.06
-          # additional_links:
-          #  - title:  sproogen/modern-resume-theme
-          #    icon: fab fa-github
-          #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           사내 프로젝트 실험실 관리 시스템 국내 및 해외법인(일본, 미국) API 개발 및 구축 진행
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - 사내 프로젝트 실험실 관리 시스템 고도화
           - 해외법인(일본, 미국) 실험실 관리 시스템 고도화
           - 국내와 법인간 아웃소싱 주문을 위한 API 통신 처리
@@ -101,30 +59,21 @@ content:
 
       - layout: left
         title: 프리커스
-        스ink: http://precursor.co.kr
-        # link_text: Project Website
+        link: http://precursor.co.kr
         sub_title: Java & Spring 백엔드 개발자
         caption: 2014.02 ~ 2019.07
-          # additional_links:
-          #  - title:  sproogen/modern-resume-theme
-          #    icon: fab fa-github
-          #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           계정 / 권한 관리 시스템, 부가인증(OTP) 관리 시스템, 오픈 API 백엔드 개발
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - MAU 1만, MAU 14만 계정 / 권한 관리 시스템 개발
-          -
           - 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
 
-  - title: 스킬 # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: 스킬
+    layout: list
     content:
       - layout: left
         title: BackEnd
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Java
           - Spring Boot, Spring MVC, Sptring Data JPA, Spring Webflux
           - JPA, Querydsl, Hibernate
@@ -134,32 +83,23 @@ content:
 
       - layout: left
         title: DevOps
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - MySQL, PostgreSQL
           - Jenkins, Git-runner
           - Weblogic, Netty, Tomcat
-          - Junit4/5, Mockito
-          - JMeter
-          - Linux Centos
+          - JMeter, Postman
+          - Centos, Ubuntu
 
-  - title: 교육 # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: 교육
+    layout: list
     content:
       - layout: left
         title: 넥스트스텝
         link: https://edu.nextstep.camp
-        # link_text: Project Website
         caption: 2021.11 ~ 2022.12
-          # additional_links:
-          #  - title:  sproogen/modern-resume-theme
-          #    icon: fab fa-github
-          #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           우아한테크캠프 Pro 3기
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - JPA 기반 웹 어플리케이션 개발
           - 단위, 인수테스트 기반 개발
           - 레거시 코드를 안정적으로 리팩토링하는 경험
@@ -169,9 +109,11 @@ content:
         런ink: https://www.inflearn.com
         caption: 2022.01 ~ 현재
         quote: >
-          모든 개발자를 HTTP 웹 기본 지식
-        description: | # this will include new lines to allow paragraphs
-          - HTTP 웹 기본 지식 내용 정리
+          백엔드 개발자로 필요한 역량을 채우기 위해 교육 학습
+        description: |
+          - 모든 개발자를 HTTP 웹 기본 지식
+            - HTTP 웹 기본 지식 내용 정리
+          -
 
 # Footer
 footer_show_references: true
