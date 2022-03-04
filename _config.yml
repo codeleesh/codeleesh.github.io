@@ -15,14 +15,8 @@ website: https://lovethefeel.tistory.com
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+# twitter_username: codeleesh
 github_username:  codeleesh
-
-# Additional icon links
-additional_links:
-  - title: Blog
-    icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-    url: https://lovethefeel.tistory.com
 
 # About Section
 # about_title: About Me
