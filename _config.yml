@@ -9,7 +9,7 @@ version: 2
 name: 이상호
 title: Java Back-End Developer
 email: lovethefeel@gmail.com
-web: https://lovethefeel.tistory.com
+website: https://lovethefeel.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
